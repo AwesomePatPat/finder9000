@@ -1,5 +1,5 @@
 <script setup lang="ts">
-  import index from "./pages/index.vue";
+  import index from "./layouts/index.vue";
 </script>
 <template>
   <div>
